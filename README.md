@@ -1,6 +1,5 @@
 ### Hi there, I'm Lorenzo👋
-- 👨‍💻 IT Engineering student 
+- 👨‍💻 UX Design student 
 - 🔭 Interested in Front-End Dev & Design
-- 📱 Wannabe UX Designer
-- 🌱 Currently learing React.js 
+- 🌱 Currently learing Python
 
