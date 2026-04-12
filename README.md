@@ -1,5 +1,4 @@
 ### Hi there, I'm Lorenzo👋
-- 👨‍💻 UX Design student, 🎓 CS engineering grad
-- 🔭 Exploring how to design and develop Videogames, Virtual Realities & AI Interaction
-- 🌱 Currently crafting experiences as Game Designer Intern
+- 👨‍💻 Entry-Level UX Designer
+- 🌱 Currently volunteering as UX and Communication Designer within a @European-Solidariety-Corps program 
 
